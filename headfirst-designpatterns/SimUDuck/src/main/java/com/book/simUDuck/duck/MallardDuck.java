@@ -1,7 +1,7 @@
 package com.book.simUDuck.duck;
 
-import com.book.simUDuck.behavior.FlyWithWings;
-import com.book.simUDuck.behavior.Quack;
+import com.book.simUDuck.behavior.fly.FlyWithWings;
+import com.book.simUDuck.behavior.sound.Quack;
 
 public class MallardDuck extends Duck {
 

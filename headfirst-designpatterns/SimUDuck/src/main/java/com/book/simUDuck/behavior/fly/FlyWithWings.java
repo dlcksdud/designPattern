@@ -1,4 +1,4 @@
-package com.book.simUDuck.behavior;
+package com.book.simUDuck.behavior.fly;
 
 
 import com.book.simUDuck.inteface.FlyBehavior;

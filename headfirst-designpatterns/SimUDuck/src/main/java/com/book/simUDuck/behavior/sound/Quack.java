@@ -1,4 +1,4 @@
-package com.book.simUDuck.behavior;
+package com.book.simUDuck.behavior.sound;
 
 import com.book.simUDuck.inteface.QuackBehavior;
 
