@@ -40,7 +40,9 @@ public class WeatherData implements Subject {
      */
     public void notifyObservers() {
         for(Observer observer : observers) {
-            observer.update(temperature, humidity, pressure);
+//            observer.update(temperature, humidity, pressure);
+            // 105p 값이 변했다는 알림을 옵저버가 받았을 때 주제에 있는 게터 메소드를 호출해서 필요한 값을 당겨오도록 만들어 보기.
+            observer.update();
         }
     }
     
@@ -58,6 +60,26 @@ public class WeatherData implements Subject {
         this.pressure = pressure;
         measurementsChanged();
     }
-    
+
+    public float getTemperature() {
+        return temperature;
+    }
+
+    public void setTemperature(float temperature) {
+        this.temperature = temperature;
+    }
+
+    public float getHumidity() {
+        return humidity;
+    }
+
+    public void setHumidity(float humidity) {
+        this.humidity = humidity;
+    }
+
+    public float getPressure() {
+        return pressure;
+    }
+
     // 기타 WeatherData 메소드
 }

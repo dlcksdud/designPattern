@@ -22,11 +22,19 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
         System.out.println("현재 상태 : 온도 " + temperature + "F, 습도 " + humidity + "%");
     }
 
+//    @Override
+//    public void update(float temp, float humidity, float pressure) {
+//        // 온도 습도 저장
+//        this.temperature = temp;
+//        this.humidity = humidity;
+//        display();
+//    }
+
     @Override
-    public void update(float temp, float humidity, float pressure) {
+    public void update() {
         // 온도 습도 저장
-        this.temperature = temp;
-        this.humidity = humidity;
+        this.temperature = weatherData.getTemperature();
+        this.humidity = weatherData.getHumidity();
         display();
     }
 }

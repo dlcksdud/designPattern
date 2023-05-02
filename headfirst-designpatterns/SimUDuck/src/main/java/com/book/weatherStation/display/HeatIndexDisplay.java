@@ -34,10 +34,17 @@ public class HeatIndexDisplay implements Observer, DisplayElement {
         System.out.println("체감 온도 : " + computeHeatIndex(t, rh));
     }
 
+//    @Override
+//    public void update(float temp, float humidity, float pressure) {
+//        this.t = temp;
+//        this.rh = humidity;
+//        display();
+//    }
+
     @Override
-    public void update(float temp, float humidity, float pressure) {
-        this.t = temp;
-        this.rh = humidity;
+    public void update() {
+        this.t = weatherData.getTemperature();
+        this.rh = weatherData.getHumidity();
         display();
     }
 }
