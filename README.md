@@ -13,7 +13,7 @@
 
  날짜 | 일차 | 읽을 분량 
 
-1주차
+1주차  
 [2023-04-24 | 1 | 독서전략과 다짐](https://github.com/dlcksdud/designPattern/blob/master/1Week/1day.md)  
 [2023-04-25 | 2 | 26-40p](https://github.com/dlcksdud/designPattern/blob/master/1Week/2day_26-40p.md)  
 [2023-04-26 | 3 | 41-55p](https://github.com/dlcksdud/designPattern/blob/master/1Week/3day_41-55p.md)  
@@ -21,7 +21,7 @@
 [2023-04-28 | 5 | 70-86p](https://github.com/dlcksdud/designPattern/blob/master/1Week/5day_70-86p.md)  
 [2023-04-29 | 6 | 87-101p](https://github.com/dlcksdud/designPattern/blob/master/1Week/6day_87-101p.md)
 
-2주차
+2주차  
 [2023-05-01 | 7 | 102-113p](https://github.com/dlcksdud/designPattern/blob/master/2Week/7day_102-113p.md)
 [2023-05-02 | 8 | 114-125p](https://github.com/dlcksdud/designPattern/blob/master/2Week/8day_114-125p.md)
 
