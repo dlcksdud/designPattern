@@ -1,4 +1,4 @@
-package com.book.test;
+package com.book.weatherStation.test;
 
 import com.book.weatherStation.display.CurrentConditionsDisplay;
 import com.book.weatherStation.display.HeatIndexDisplay;
