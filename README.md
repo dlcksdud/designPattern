@@ -25,9 +25,9 @@
 [2023-05-01 | 7 | 102-113p](https://github.com/dlcksdud/designPattern/blob/master/2Week/7day_102-113p.md)  
 [2023-05-02 | 8 | 114-125p](https://github.com/dlcksdud/designPattern/blob/master/2Week/8day_114-125p.md)  
 [2023-05-03 | 9 | 126-139p](https://github.com/dlcksdud/designPattern/blob/master/2Week/9day_126-139p.md)  
-[2023-05-04 | 10 | 140-152p](https://github.com/dlcksdud/designPattern/blob/master/2Week/10day_140-152p.md) 
-[2023-05-05 | 10 | 153-165p](https://github.com/dlcksdud/designPattern/blob/master/2Week/11day_153-165p.md)    
-[2023-05-06 | 11 | 166-179p](https://github.com/dlcksdud/designPattern/blob/master/2Week/12day_166-179p.md)    
+[2023-05-04 | 10 | 140-152p](https://github.com/dlcksdud/designPattern/blob/master/2Week/10day_140-152p.md)   
+[2023-05-05 | 11 | 153-165p](https://github.com/dlcksdud/designPattern/blob/master/2Week/11day_153-165p.md)    
+[2023-05-06 | 12 | 166-179p](https://github.com/dlcksdud/designPattern/blob/master/2Week/12day_166-179p.md)    
 
 
 
