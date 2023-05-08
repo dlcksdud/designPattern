@@ -1,9 +1,8 @@
 package com.book.factoryPattern;
-import com.book.factoryPattern.NYStylePizzaStore;
 
 public class PizzaTestDrive {
     public static void main(String[] args) {
-        PizzaStore nyStore = new NYStylePizzaStore();
+        PizzaStore nyStore = new NYPizzaStore();
         PizzaStore chicagoStore = new ChicagoPizzaStore();
 
         Pizza pizza = nyStore.orderPizza("cheese");

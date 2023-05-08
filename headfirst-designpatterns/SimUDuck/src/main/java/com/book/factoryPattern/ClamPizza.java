@@ -1,8 +1,8 @@
 package com.book.factoryPattern;
 
-public class VeggiePizza extends Pizza {
+public class ClamPizza extends Pizza {
     PizzaIngredientFactory ingredientFactory;
-    public VeggiePizza(PizzaIngredientFactory ingredientFactory) {
+    public ClamPizza(PizzaIngredientFactory ingredientFactory) {
         this.ingredientFactory = ingredientFactory;
     }
 
