@@ -34,9 +34,13 @@
 [2023-05-09 | 14 | 190-204p](https://github.com/dlcksdud/designPattern/blob/master/3Week/14day_190-204p.md)  
 [2023-05-10 | 15 | 205-216p](https://github.com/dlcksdud/designPattern/blob/master/3Week/15day_205-216p.md)  
 [2023-05-11 | 16 | 217-226p](https://github.com/dlcksdud/designPattern/blob/master/3Week/16day_217-226p.md)  
-[2023-05-12 | 17 | p]()  
-[2023-05-13 | 18 | p]()  
+[2023-05-12 | 17 | 227-239p](https://github.com/dlcksdud/designPattern/blob/master/3Week/17day_227-239p.md)  
+[2023-05-13 | 18 | 240-256p](https://github.com/dlcksdud/designPattern/blob/master/3Week/18day_240-256p.md)  
 
+4주차  
+[2023-05-15 | 19 | 257-271p](https://github.com/dlcksdud/designPattern/blob/master/4Week/19day_257-271p.md)
+[2023-05-16 | 20 | 272-283p](https://github.com/dlcksdud/designPattern/blob/master/4Week/20day_272-283p.md)
+[2023-05-16 | 21 | 284-293p](https://github.com/dlcksdud/designPattern/blob/master/4Week/21day_284-293p.md)
 
 
 
