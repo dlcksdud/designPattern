@@ -1,5 +1,7 @@
 package com.book.IteratorPattern;
 
+import java.util.Iterator;
+
 public class DinerMenu {
     static final int MAX_ITEMS = 6;
     int numberOfItems = 0;
@@ -14,7 +16,7 @@ public class DinerMenu {
 //        return menuItems;
 //    }
 
-    public Iterator createIterator() {
+    public Iterator<MenuItem> createIterator() {
         /**
          * menuItems배열을 가지고 DinerMenuIterator를 생성한 다음 클라이언트에게 리턴한다.
          * 클라이언트는 menuItem이 어떻게 관리되는지는 물론

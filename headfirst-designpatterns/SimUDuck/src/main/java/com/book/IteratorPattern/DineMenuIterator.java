@@ -1,6 +1,7 @@
 package com.book.IteratorPattern;
+import java.util.Iterator;
 
-public class DineMenuIterator implements Iterator {
+public class DineMenuIterator implements Iterator<MenuItem> {
     MenuItem[] items;
     int position = 0; // 반복 작업이 처리되고 있는 위치 저장
 
@@ -31,4 +32,15 @@ public class DineMenuIterator implements Iterator {
         position = position + 1;
         return menuItem;
     }
+
+    @Override
+    public void remove() {
+        /**
+         *  Iterator 인터페이스에서 remove() 메소드는 필수가 아니다.
+         *  그러니 그냥 예외 던지는 식으로 처리한다.
+         */
+        throw new UnsupportedOperationException("메뉴 항목은 지울 수 없습니다.");
+    }
+
+
 }
